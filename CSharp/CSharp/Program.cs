@@ -188,10 +188,117 @@
 //} while (false);
 
 
-int kubtil, hecm;
+//int kubtil, hecm;
 
-Console.WriteLine("Kub til: ");
-kubtil = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Kub til: ");
+//kubtil = Convert.ToInt32(Console.ReadLine());
 
-hecm = (int)Math.Pow(kubtil, 3);
-Console.WriteLine(hecm);
+//hecm = (int)Math.Pow(kubtil, 3);
+//Console.WriteLine(hecm);
+
+
+//Console.Write("Ekrana bir eded daxil edin: ");
+//int num = int.Parse(Console.ReadLine());
+//int n = 0;
+
+
+//while (num >= (double)Math.Pow(2, n))
+//{
+//	if (num == (double)Math.Pow(2, n))
+//	{
+//		Console.WriteLine("Bu eded 2nin quvvetidir");
+
+//		break;
+//	}
+//    n++;
+
+//}
+//if (num != (double)Math.Pow(2, n))
+//{
+//	Console.WriteLine("Bu eded 2nin quvveti deyil");
+//}
+
+
+//Console.WriteLine("Ekrana eded daxil edin: ");
+//int num = int.Parse(Console.ReadLine());
+//int k,cem = 0;
+
+
+//while (num !=0)
+//{
+//    k = num % 10;
+//    num = (num - num % 10) / 10;
+//    Console.WriteLine(k);
+//    cem = cem + k;
+
+//}
+//Console.WriteLine(cem);
+//Console.ReadLine();
+
+//Console.WriteLine("Birinci eded: ");
+//int a = int.Parse(Console.ReadLine());
+//Console.WriteLine("ikinci eded: ");
+//int b = int.Parse(Console.ReadLine());
+
+
+//while ((b-1) !=a)
+//{
+//    b = b - 1;
+//	if (b % 2==0)
+//	{
+//		Console.WriteLine(b);
+//	}
+//}
+
+//int[] arr = { 100, 20, -30, -40, 50,25 };
+
+
+//for (int i = 0; i < arr.Length; i++)
+//{
+//	if (i%2==0)
+//	{
+//		Console.WriteLine(arr[i]);
+//	}
+//}
+
+using System;
+
+int sum = 0, sum1;
+int[] numbers = { 1, 1, 2, 3, 4, 1, 4, 4 };
+int max = 0;    
+int min = numbers[0];
+int num1 = 0, num2 = 0;
+for (int i = 0; i < numbers.Length; i++)
+{
+    sum = sum + numbers[i];
+
+    if (numbers[i] > max)
+    {
+        max = numbers[i];
+
+    }
+    if (numbers[i] < min)
+    {
+        min = numbers[i];
+    }
+
+}
+for (int i = 0; i < numbers.Length; i++)
+{
+    // maxlarin sayi
+    if (max == numbers[i])
+    {
+        num1++;
+    }
+    //minlarin sayi
+    if (min == numbers[i])
+    {
+        num2++;
+    }
+
+}
+
+sum1 = sum - num1 * max - num2 * min;
+Console.WriteLine("min ve max olmadan digerlerinin cemi:" + sum1);
+    
+
