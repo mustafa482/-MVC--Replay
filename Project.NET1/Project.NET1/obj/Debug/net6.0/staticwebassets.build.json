@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QCUtgQCAverdXtkklTM+kn52iOMDuABovN7DQkfGDu8=",
+  "Source": "Project.NET1",
+  "BasePath": "_content/Project.NET1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project.NET1\\wwwroot",
+      "Source": "Project.NET1",
+      "ContentRoot": "D:\\Users\\Mustafa\\Desktop\\Replay1\\Project.NET1\\Project.NET1\\wwwroot\\",
+      "BasePath": "_content/Project.NET1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Users\\Mustafa\\Desktop\\Replay1\\Project.NET1\\Project.NET1\\wwwroot\\test.css",
+      "SourceId": "Project.NET1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Users\\Mustafa\\Desktop\\Replay1\\Project.NET1\\Project.NET1\\wwwroot\\",
+      "BasePath": "_content/Project.NET1",
+      "RelativePath": "test.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\test.css"
+    }
+  ]
+}

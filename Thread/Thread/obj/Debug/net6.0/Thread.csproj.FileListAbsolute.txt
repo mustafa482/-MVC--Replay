@@ -1,0 +1,15 @@
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\bin\Debug\net6.0\Thread.exe
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\bin\Debug\net6.0\Thread.deps.json
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\bin\Debug\net6.0\Thread.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\bin\Debug\net6.0\Thread.dll
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\bin\Debug\net6.0\Thread.pdb
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\Thread.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\Thread.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\Thread.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\Thread.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\Thread.dll
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\refint\Thread.dll
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\Thread.pdb
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\Thread.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Replay1\Thread\Thread\obj\Debug\net6.0\ref\Thread.dll

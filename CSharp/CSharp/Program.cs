@@ -261,44 +261,169 @@
 //	}
 //}
 
-using System;
+//using System;
 
-int sum = 0, sum1;
-int[] numbers = { 1, 1, 2, 3, 4, 1, 4, 4 };
-int max = 0;    
-int min = numbers[0];
-int num1 = 0, num2 = 0;
-for (int i = 0; i < numbers.Length; i++)
+//int sum = 0, sum1;
+//int[] numbers = { 1, 1, 2, 3, 4, 1, 4, 4 };
+//int max = 0;    
+//int min = numbers[0];
+//int num1 = 0, num2 = 0;
+//for (int i = 0; i < numbers.Length; i++)
+//{
+//    sum = sum + numbers[i];
+
+//    if (numbers[i] > max)
+//    {
+//        max = numbers[i];
+
+//    }
+//    if (numbers[i] < min)
+//    {
+//        min = numbers[i];
+//    }
+
+//}
+//for (int i = 0; i < numbers.Length; i++)
+//{
+//    // maxlarin sayi
+//    if (max == numbers[i])
+//    {
+//        num1++;
+//    }
+//    //minlarin sayi
+//    if (min == numbers[i])
+//    {
+//        num2++;
+//    }
+
+//}
+
+//sum1 = sum - num1 * max - num2 * min;
+//Console.WriteLine("min ve max olmadan digerlerinin cemi:" + sum1);
+
+
+//public class Program
+//{
+//  static void Main()
+//    {
+//        int[] ints = { 1, 2, 3, 4, 5, 6 };
+//       reSize(ref ints, 10);
+//        Console.WriteLine(ints.Length);
+
+//    }
+//    public static void reSize(ref int[] arr,int newSize)
+//    {
+//        int[] reSizeArr = new int[newSize];
+//        for (int i = 0; i < newSize; i++)
+//        {
+//            if (i<arr.Length)
+//            {
+//                reSizeArr[i] = arr[i];
+//            }
+//            else
+//            {
+//                reSizeArr[i] = 0;
+//            }
+//        }
+//        arr = reSizeArr;
+//    }
+
+
+
+//}
+
+//string text = "acaabcca";
+
+//char[] charArray = text.ToCharArray();
+
+//for (int i = 0; i < charArray.Length; i++)
+//{
+//	for (int j = 1; j < charArray.Length; j++)
+//	{
+//		if (charArray[i] != charArray[j])
+//		{
+//			Console.Write(charArray[0] + charArray[i]);
+//		}
+//	}
+//}
+
+//using CSharp;
+
+//public class Program
+//{
+//    static void Main()
+//    {
+//        Car car = new Car();
+//        car.ShowInfo();
+//        car.Drive(100);
+//    }
+//}
+//public class Vehicle
+//{
+//    public string Color = "black";
+//    public int Year = 2000;
+//}
+
+//public class Car:Vehicle
+//{
+//    public string Brand;
+//    public string Model;
+//    public float FuelCapacity = 90;
+//    public float FuelFor1Km = 1/10f;
+//    public float CurrentFuel;
+
+//    public void ShowInfo()
+//    {
+        
+//        Console.WriteLine();
+//        Console.WriteLine();
+//        Console.WriteLine();
+
+
+
+//    }
+
+//    public void Drive(float km)
+//    {
+//        CurrentFuel = FuelCapacity - km * FuelFor1Km;
+//        Console.WriteLine(CurrentFuel);
+
+//    }
+//}
+
+
+public class CapacityLimitException : Exception
 {
-    sum = sum + numbers[i];
+	public CapacityLimitException(String message):base(message)
+	{
 
-    if (numbers[i] > max)
-    {
-        max = numbers[i];
-
-    }
-    if (numbers[i] < min)
-    {
-        min = numbers[i];
-    }
-
+	}
 }
-for (int i = 0; i < numbers.Length; i++)
+public class Employee : IPerson
 {
-    // maxlarin sayi
-    if (max == numbers[i])
+	public string Name => "Mustafa";
+
+	public int age => 20;
+
+	public int id { get; }
+	public int Id {
+		get { return id; } 
+		set { id = Id + 1; } }
+	public string ShowInfo()
     {
-        num1++;
-    }
-    //minlarin sayi
-    if (min == numbers[i])
-    {
-        num2++;
+		return "Name: " + Name + " Yas: " + age;
+		
     }
 
+	public Employee(int Id)
+	{
+		this.Id = Id;
+	}
 }
+public interface IPerson
+{
+	public string Name { get; }
+	public int age { get; }
 
-sum1 = sum - num1 * max - num2 * min;
-Console.WriteLine("min ve max olmadan digerlerinin cemi:" + sum1);
-    
-
+	public string ShowInfo();
+}

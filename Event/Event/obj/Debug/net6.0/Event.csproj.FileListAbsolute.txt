@@ -1,0 +1,15 @@
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\bin\Debug\net6.0\Event.exe
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\bin\Debug\net6.0\Event.deps.json
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\bin\Debug\net6.0\Event.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\bin\Debug\net6.0\Event.dll
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\bin\Debug\net6.0\Event.pdb
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\Event.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\Event.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\Event.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\Event.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\Event.dll
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\refint\Event.dll
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\Event.pdb
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\Event.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Replay1\Event\Event\obj\Debug\net6.0\ref\Event.dll

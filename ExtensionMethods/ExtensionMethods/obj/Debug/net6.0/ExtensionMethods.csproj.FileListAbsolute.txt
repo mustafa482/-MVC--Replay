@@ -1,0 +1,15 @@
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.exe
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.deps.json
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.dll
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.pdb
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.dll
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\refint\ExtensionMethods.dll
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.pdb
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Replay1\ExtensionMethods\ExtensionMethods\obj\Debug\net6.0\ref\ExtensionMethods.dll

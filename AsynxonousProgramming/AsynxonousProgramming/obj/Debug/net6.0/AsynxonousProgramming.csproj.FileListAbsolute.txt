@@ -1,0 +1,15 @@
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\bin\Debug\net6.0\AsynxonousProgramming.exe
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\bin\Debug\net6.0\AsynxonousProgramming.deps.json
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\bin\Debug\net6.0\AsynxonousProgramming.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\bin\Debug\net6.0\AsynxonousProgramming.dll
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\bin\Debug\net6.0\AsynxonousProgramming.pdb
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\AsynxonousProgramming.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\AsynxonousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\AsynxonousProgramming.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\AsynxonousProgramming.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\AsynxonousProgramming.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\AsynxonousProgramming.dll
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\refint\AsynxonousProgramming.dll
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\AsynxonousProgramming.pdb
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\AsynxonousProgramming.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Replay1\AsynxonousProgramming\AsynxonousProgramming\obj\Debug\net6.0\ref\AsynxonousProgramming.dll

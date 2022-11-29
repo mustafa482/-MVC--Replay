@@ -1,0 +1,15 @@
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\bin\Debug\net6.0\Destructor.exe
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\bin\Debug\net6.0\Destructor.deps.json
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\bin\Debug\net6.0\Destructor.runtimeconfig.json
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\bin\Debug\net6.0\Destructor.dll
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\bin\Debug\net6.0\Destructor.pdb
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\Destructor.csproj.AssemblyReference.cache
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfoInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfo.cs
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\Destructor.csproj.CoreCompileInputs.cache
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\Destructor.dll
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\refint\Destructor.dll
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\Destructor.pdb
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\Destructor.genruntimeconfig.cache
+D:\Users\Mustafa\Desktop\Replay1\Destructor\Destructor\obj\Debug\net6.0\ref\Destructor.dll
