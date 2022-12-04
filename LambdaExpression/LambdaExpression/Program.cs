@@ -31,6 +31,7 @@ public class ReqemMuqayiseEden
 
 
 
+
 //var sayiMuqayise = new SayiMuqayise();
 //Console.WriteLine(sayiMuqayise.SayiMuqayisesi(2, 3, new Karsilastirma()));
 

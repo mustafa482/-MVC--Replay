@@ -374,7 +374,7 @@
 
 //    public void ShowInfo()
 //    {
-        
+
 //        Console.WriteLine();
 //        Console.WriteLine();
 //        Console.WriteLine();
@@ -391,39 +391,3 @@
 //    }
 //}
 
-
-public class CapacityLimitException : Exception
-{
-	public CapacityLimitException(String message):base(message)
-	{
-
-	}
-}
-public class Employee : IPerson
-{
-	public string Name => "Mustafa";
-
-	public int age => 20;
-
-	public int id { get; }
-	public int Id {
-		get { return id; } 
-		set { id = Id + 1; } }
-	public string ShowInfo()
-    {
-		return "Name: " + Name + " Yas: " + age;
-		
-    }
-
-	public Employee(int Id)
-	{
-		this.Id = Id;
-	}
-}
-public interface IPerson
-{
-	public string Name { get; }
-	public int age { get; }
-
-	public string ShowInfo();
-}
